@@ -5,7 +5,7 @@
 
 <img width="688" height="306" alt="image" src="https://github.com/user-attachments/assets/dab93e97-11d6-417c-b222-e12300239c97" />
 
-// Idle ท่ายืนเฉยๆ
+# Idle ท่ายืนเฉยๆ
 <img width="248" height="221" alt="Screenshot 2025-09-14 172226" src="https://github.com/user-attachments/assets/3392261f-3269-4bb0-9f26-cc1058c3f6f0" />
 
 
